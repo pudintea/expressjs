@@ -1,4 +1,4 @@
-Keputusan yang sangat tepat! Menghapus folder lama dan membuat proyek baru yang bersih dari nol adalah cara terbaik untuk menghindari bentrokan *cache* dan sisa-sisa konfigurasi yang salah.
+# PRISMA 7 dan Express JS dan MySQL/MariaDB
 
 Karena kita menggunakan **Prisma versi 7** (versi terbaru di tahun 2026), kita akan mengikuti standar arsitektur terbarunya secara ketat dari awal. Mari kita bangun bersama langkah demi langkah.
 
@@ -225,3 +225,5 @@ npm run dev
 ```
 
 Selamat! Struktur proyek Anda sekarang sudah 100% menggunakan arsitektur paling modern dan standar resmi dari Prisma 7. Server Anda akan menyala dengan mulus dan siap menerima request CRUD Anda tanpa ada lagi pesan error modul maupun datasource. Silakan dicoba!
+
+## Pudin Saepudin
