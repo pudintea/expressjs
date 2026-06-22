@@ -68,4 +68,8 @@ Aksess menggunakan browser
 ```
 http://localhost:3000
 ```
+## Dokumentasi
+* [Nodemon](https://www.npmjs.com/package/nodemon)
+* [Express JS](https://expressjs.com/en/)
+
 ## Pudin Saepudin
