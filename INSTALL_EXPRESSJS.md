@@ -34,7 +34,7 @@ app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
 ```
-Sesuaikan Package.json dengan ini :
+Sesuaikan Package.json di bagian "scripts" dengan ini :
 ```
 {
   "name": "belajar-express",
